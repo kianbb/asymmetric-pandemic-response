@@ -21,6 +21,8 @@ We study how communities adjust their protective behaviour as pandemic risk chan
 
 ## Repository structure
 
+```
+.
 ├── Data/                       # Real-world and synthetic data
 ├── Models/Python/              # Jupyter notebooks
 │   ├── 100_simulation.ipynb    # Generates synthetic data for simulation studies
@@ -29,7 +31,7 @@ We study how communities adjust their protective behaviour as pandemic risk chan
 │   └── ARDL.ipynb              # Comparison with ARDL-based estimation
 ├── LICENSE
 └── README.md
-
+```
 ## Reproduction
 
 **Requirements:** Python 3.x with NumPy, pandas, matplotlib, statsmodels, SciPy; Jupyter notebook or JupyterLab.
